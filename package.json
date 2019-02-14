@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Chassaga/HETIC_chat/issues"
   },
-  "homepage": "https://github.com/Chassaga/HETIC_chat#readme"
+  "homepage": "https://github.com/Chassaga/HETIC_chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
 }
